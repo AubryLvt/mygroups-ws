@@ -1,0 +1,1 @@
+README of the mygroups app - web services layer.
